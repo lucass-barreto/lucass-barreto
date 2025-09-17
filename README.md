@@ -8,14 +8,33 @@ Sou proativo e busco aplicar minha base teórica em **projetos práticos** para 
 
 ### 🛠️ Habilidades Técnicas
 
-- **Linguagens:** Java | HTML | CSS | SQL
-- **Backend:** Spring Boot | Spring Data JPA | Spring Security | Hibernate
-- **API & Arquitetura:** APIs RESTful | Microsserviços | MVC | DTOs
-- **Banco de Dados:** H2 | MySQL | PostgreSQL | NoSQL
-- **Metodologias:** Scrum | XP (Extreme Programming) |  Kanban
-- **DevOps, Cloud & Ferramentas:** Git | GitHub | Docker | Maven | AWS
-- **Qualidade:** Engenharia de Software e QA (Qualidade de Software)
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css" />
+  <p><strong>Linguagens</strong></p>
+  <br>
+
+  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
+  <p><strong>Backend</strong></p>
+  <br>
+
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <p><strong>Banco de Dados</strong></p>
+  <br>
+
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,maven" />
+  <p><strong>DevOps, Cloud & Ferramentas</strong></p>
+  <br>
+
+  <hr>
+
+  ### Principais Conceitos e Metodologias
+
+  * **API & Arquitetura:** APIs RESTful, Microsserviços, MVC e DTOs
+  * **Qualidade:** Engenharia de Software e QA (Qualidade de Software)
+  * **Metodologias:** Scrum, XP (Extreme Programming), Metodologias Ágeis
+</div>
+  
 ---
 
 ### 🚀 Projetos de Destaque
