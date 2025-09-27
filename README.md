@@ -42,12 +42,12 @@ Sou proativo e busco aplicar minha base teórica em **projetos práticos** para 
 #### **Parkable**
 
 - **Descrição:** API de gerenciamento de estacionamento completo, aplicando Java e Spring Boot. Foco na aplicação de boas práticas de arquitetura, Clean Code e segurança.
-- **Tecnologias:** Java, Spring Boot, APIs REST, JPA/Hibernate, MySQL.
+- **Tecnologias:** Java, Spring Boot, APIs REST, JPA/Hibernate.
 
-#### **Pizza Mania**
+#### **PipocaIA**
 
-- **Descrição:** Sistema web completo para pedidos de pizza, com interface de cliente e painel administrativo para controle e visualização de pedidos.
-- **Tecnologias:** PHP, CSS, MySQL.
+- **Descrição:** Sistema de recomendação de filmes com IA com base no gosto do usuário.
+- **Tecnologias:** Java, Spring Boot, Spring WebFlux, Project Reactor (Mono/Flux), Spring Data JPA, Thymeleaf, Bootstrap 5, OpenAI API, TMDb API, Flyway, Maven, Git.
 
 ---
 
