@@ -10,15 +10,15 @@ Sou proativo e busco aplicar minha base teórica em **projetos práticos** para 
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css" />
-  <p><strong>Linguagens</strong></p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,angular" />
+  <p><strong>Frontend</strong></p>
   <br>
 
-  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,java" />
   <p><strong>Backend</strong></p>
   <br>
 
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
   <p><strong>Banco de Dados</strong></p>
   <br>
 
