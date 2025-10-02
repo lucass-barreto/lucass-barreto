@@ -14,7 +14,7 @@ Sou proativo e busco aplicar minha base teórica em **projetos práticos** para 
   <p><strong>Frontend</strong></p>
   <br>
 
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,java" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
   <p><strong>Backend</strong></p>
   <br>
 
